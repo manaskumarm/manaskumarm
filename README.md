@@ -38,6 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" height="40" alt="Docker logo"  />  
 </div>
 
-## Connect with me 
+## ⚡ Connect with me 
 - [LinkedIn](https://www.linkedin.com/in/manas-kumar-mohapatra-8657b940)
 - [C#Corner](https://www.c-sharpcorner.com/members/manas-mohapatra)
